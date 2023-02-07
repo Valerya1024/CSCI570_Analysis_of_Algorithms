@@ -1,2 +1,3 @@
-# CSCI571_Web_Technologies
- Code is available upon request
+# CSCI570_Analysis_of_Algorithms
+
+ Code and solutions available upon request
